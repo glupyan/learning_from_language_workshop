@@ -1,0 +1,13 @@
+<div class="split-footnote">
+  <p>{{ .Site.Params.content.footnote | markdownify }}</p>
+</div>
+
+<div class="split-credit">
+  <p>{{ .Site.Copyright | safeHTML }} - Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://themes.gohugo.io/hugo-split-theme/">Hugo Split theme</a> (<a href="https://github.com/tmuguet/hugo-split-theme">derivative</a>) - <a href="https://onepagelove.com/split">Split Template</a> by <a href="https://onepagelove.com">One Page Love</a></p>
+
+  {{ "<!--" | safeHTML }}
+  {{ "To edit this credit you can remove the CC3.0 license for only $5 here: https://onepagelove.com/split" | safeHTML }}
+  {{ "this really helps contribute towards us developing more templates and means the world to me!" | safeHTML }}
+  {{ "Cheers, Rob (@robhope)" | safeHTML }}
+  {{ "-->" | safeHTML }}
+</div>
