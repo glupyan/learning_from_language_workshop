@@ -1,5 +1,5 @@
 # Site settings
-baseURL: "/"
+baseURL = "/"
 languageCode = "en-US"
 title = "Learning from Language Workshop"
 theme = "hugo-split-theme"
