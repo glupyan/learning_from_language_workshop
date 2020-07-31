@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://learningfromlanguageworkshop.netlify.app"
+baseURL: "/"
 languageCode = "en-US"
 title = "Learning from Language Workshop"
 theme = "hugo-split-theme"
