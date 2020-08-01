@@ -32,16 +32,16 @@ copyright = "&copy;2020 Gary Lupyan"
 Animals learn from perceiving and navigating through their natural environment. But as humans we benefit from a source of knowledge unavailable to other animals: language. The goal of this workshop is to discuss some ways in which our knowledge is informed by our experience with language. Some questions the speakers will be tackling are:
 
 
-a) How much “work” is language doing in children’s cognitive development, and vice versa?
+a) What do recent successes in natural language processing (e.g., word embeddings, predictive language models) tell us about the kind of information that is and is not embedded in language?
 
 
-b) What do recent successes in natural language processing (e.g., word embeddings, predictive language models) tell us about the kind of information that is and is not embedded in language?
+b) Does perceptual information embedded in the distributional structure of language affect people’s knowledge of what things look like/sound like/feel like, etc.?
 
 
-c)  What is the relationship between vocabulary and working memory? To what extent might vocabulary form the “units” over which working memory operates?
+c) How much “work” is language doing in children’s cognitive development [and vice versa]?
 
 
-d) Does perceptual information embedded in the distributional structure of language affect people’s knowledge of what things look like/sound like/feel like, etc.?
+d) What is the relationship between vocabulary and working memory? To what extent might vocabulary form the “units” over which working memory operates?
 
 
 e) Do cross-linguistic differences in vocabulary mean that people learning different languages come to have different perceptual/conceptual categories? What evidence speaks for and against this idea?
@@ -50,7 +50,7 @@ e) Do cross-linguistic differences in vocabulary mean that people learning diffe
 f) Are there meaningful individual differences between people’s use of/reliance on natural language in memory/thinking/reasoning/learning?
 
 
-g) How can embodiment (being able to perceive and interact physically with our environment) affect the learning and representation of language in humans and artificial neural networks.
+g) How can embodiment (being able to perceive and interact physically with our environment) affect the learning and representation of language in humans and artificial neural networks?
 
 
 h) What would a model that can effectively link language with other forms of experience be like, so that language can inform our understanding of the world and the world can inform our understanding of language?
