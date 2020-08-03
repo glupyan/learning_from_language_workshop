@@ -86,7 +86,7 @@ h) What would a model that can effectively link language with other forms of exp
         url = "https://casasanto.com/benjaminpitt/"
 
       [[params.links.list1.link]]
-        text = "Idan Blank/Ev Fedorenko (MIT)"
+        text = "Idan Blank/Ev Fedorenko (UCLA/MIT)"
         url = "https://evlab.mit.edu/"
 
       [[params.links.list1.link]]
@@ -141,7 +141,7 @@ h) What would a model that can effectively link language with other forms of exp
         icon = "youtube"
 
       [[params.links.list2.link2]]
-        text = "Language and thought in the mind and brain"
+        text = "Complex world knowledge from simple linguistic input"
         url = "#"
         icon = "youtube"
 
