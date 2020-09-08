@@ -16,7 +16,7 @@ copyright = "&copy;2020 Gary Lupyan"
   # Metadata for search engines and social sharing
   name = ""
   description = "Learning from Language Workshop. UW2020"
-  shareImage = "images/social.jpg"
+  shareImage = "images/background.jpg"
   twitterHandle = "onepagelove"
 
   # Favicon
@@ -163,7 +163,7 @@ h) What would a model that can effectively link language with other forms of exp
 
       [[params.links.list2.link2]]
         text = "Are We Asking the Right Question?"
-        url = "https://youtu.be/tM0ZAkh5NgQ"
+        url = "#"
         icon = "youtube"
 
       [[params.links.list2.link2]]
